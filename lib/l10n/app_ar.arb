@@ -1,3 +1,13 @@
 {
-"aaa": "شششش"
+  "todolist": "قائمة المهام",
+  "addnewtask": "اضافة مهمة جديدة",
+  "title": "العنوان",
+  "description": "الوصف",
+  "selecttime": "الوقت",
+  "add": "اضافة",
+  "language": "اللغة",
+  "mode": "الثيم",
+  "light": "فاتح",
+  "dark": "داكن"
+
 }
